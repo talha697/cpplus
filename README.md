@@ -1,2 +1,1 @@
-# cpplus
-My all c ++ projects till now
+# Small c++ programs for doing tasks
